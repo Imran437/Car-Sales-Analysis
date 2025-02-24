@@ -42,7 +42,7 @@ This repository contains a Power BI project focused on car sales analysis to unc
 
 
 
-Author 
+Author:
 Imran Ansari
 
 Feel free to suggest changes or improvement.
