@@ -366,7 +366,8 @@ and other measure like this
 ```DAX
 Max Point Area Chart = 
 IF(MAXX(ALLSELECTED('Date'[Week]), [Total Sales]) = [Total Sales], MAXX(ALLSELECTED('Date'[Week]), [Total Sales]), BLANK())
-```### 🔎 Interactive Features
+```
+### 🔎 Interactive Features
 
 - Year/date filtering
 - Body Style filter
